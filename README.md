@@ -1,4 +1,17 @@
+# Mama Recipe Mobile Application
+Mama Recipe is an online platform that offers a variety of food recipes for users seeking culinary inspiration. With this website, users can explore various recipes ranging from traditional dishes to modern culinary creations. Additionally, users can share their own favorite recipes, enabling the community to interact and share their culinary experiences.
+## Features
 
+- Users can register and login.
+- Users can edit their profile.
+- Users can browse available recipe.
+- Users can post a new recipe.
+- Users can Edit and delete their recipe.
+
+## Built With
+- React Native
+
+## Package and dependencies
 ## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
