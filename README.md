@@ -81,4 +81,5 @@ yarn ios
 💻 [Chanra S Bakkara](https://github.com/ChanraSB)
 ## Related Project
 ⚡[Backend Mama Recipe](https://github.com/ChanraSB/chanra-s-bakkara)⚡<br>
+⚡[Mobile Mama Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/)⚡<br>
 
