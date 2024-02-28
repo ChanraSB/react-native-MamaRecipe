@@ -75,7 +75,7 @@ npm run ios
 yarn ios
 ```
 ## Screenshoot
-[Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/e872c348-4693-42e5-9fc2-b4a1d7cb5493)
+[Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/e872c348-4693-42e5-9fc2-b4a1d7cb5493) <br>
 [Login](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/66b71d8e-1d10-46e4-b878-d70ec6034ebe)
 ## Author
 💻 [Chanra S Bakkara](https://github.com/ChanraSB)
