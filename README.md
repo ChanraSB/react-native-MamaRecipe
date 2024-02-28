@@ -12,6 +12,27 @@ Mama Recipe is an online platform that offers a variety of food recipes for user
 - React Native
 
 ## Package and dependencies
+```bash
+ "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^6.5.12",
+    "@react-navigation/material-top-tabs": "^6.6.6",
+    "@react-navigation/native": "^6.1.10",
+    "@react-navigation/native-stack": "^6.9.18",
+    "@react-navigation/stack": "^6.3.21",
+    "axios": "^1.6.7",
+    "mime": "^4.0.1",
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-image-picker": "^7.1.0",
+    "react-native-onesignal": "^5.0.6",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0",
+    "react-native-svg": "^14.1.0",
+    "react-native-tab-view": "^3.5.2",
+    "react-native-vector-icons": "^10.0.3"
+```
 ## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
