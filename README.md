@@ -75,8 +75,29 @@ npm run ios
 yarn ios
 ```
 ## Screenshoot
-[Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/e872c348-4693-42e5-9fc2-b4a1d7cb5493) <br>
-[Login](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/66b71d8e-1d10-46e4-b878-d70ec6034ebe)
+| Login Page | Register Page |
+|------------|---------------|
+| ![Login Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/23bf0f2e-be5a-4f80-9e28-953405375bdf) | ![Register (3)](https://github.com/ChanraSB/mama-recipe/assets/151555550/52fceb42-d5df-450c-88c9-7fbf97cf9b0d) |
+
+| Profile Page | Update Profile Picture |
+|------------|---------------|
+| ![Profile Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/086b6a2b-7733-40ef-97ee-6b2437c3d35a) | ![Update Profile Picture](https://github.com/ChanraSB/mama-recipe/assets/151555550/f72cadec-0b61-49b2-9390-d272c7d9e852) |
+
+| My Recipe | Liked Recipe |
+|------------|---------------|
+| ![My Recipe](https://github.com/ChanraSB/mama-recipe/assets/151555550/8b9c283e-4707-4a6f-a9b2-d377559731d1) | ![Liked Recipe (2)](https://github.com/ChanraSB/mama-recipe/assets/151555550/ecf46bb8-890c-4edf-93fc-6715e29dec89) |
+
+| Landing Page | List Recipe Page |
+|------------|---------------|
+| ![Landing Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/4ae1441e-9163-4cf4-a015-d0dfb59fd4fa) | ![List Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/8158cbca-a368-44d8-afb9-303d7e9d6b9f) |
+
+| Detail Recipe Page | Detail Video |
+|------------|---------------|
+| ![Detail Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/58119921-ef93-4eee-b7bd-bd926045cb10) | ![Detail Video](https://github.com/ChanraSB/mama-recipe/assets/151555550/9fd7667d-47e0-4e62-b092-5220dd0ccaee) |
+
+| Edit Recipe Page | Add Recipe |
+|------------|------------|
+| ![Edit Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/72be0a3a-7249-488a-8e94-22b81807cad1) | ![Add Recipe](https://github.com/ChanraSB/mama-recipe/assets/151555550/96c65a3f-37bf-4b84-9aa1-253bb1a6243e)
 ## Author
 💻 [Chanra S Bakkara](https://github.com/ChanraSB)
 ## Related Project
