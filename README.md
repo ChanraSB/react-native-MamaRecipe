@@ -79,13 +79,13 @@ yarn ios
 |------------|---------------|
 | ![Login](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ec1a2ca6-0ef4-4e34-b0b3-64c02da4f5a3) | ![Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/526daa5d-dfda-4649-bb30-fccbbfca8065) |
 
-| Profile | Update Profile Picture |
+| Profile | Detail Recipe |
 |------------|---------------|
-| ![Profile](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/4d16990a-4e89-4f63-bb43-f697a2a33962) | ![Update Profile Picture](https://github.com/ChanraSB/mama-recipe/assets/151555550/f72cadec-0b61-49b2-9390-d272c7d9e852) |
+| ![Profile](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/4d16990a-4e89-4f63-bb43-f697a2a33962) | ![Detail Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ff066540-1395-4023-a553-8a2b0dc112e0) |
 
-| My Recipe | Liked Recipe |
+| Liked Recipe | My Recipe |
 |------------|---------------|
-| ![My Recipe](https://github.com/ChanraSB/mama-recipe/assets/151555550/8b9c283e-4707-4a6f-a9b2-d377559731d1) | ![Liked Recipe (2)](https://github.com/ChanraSB/mama-recipe/assets/151555550/ecf46bb8-890c-4edf-93fc-6715e29dec89) |
+| ![Liked Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/95ec6e70-77b1-4ed9-91f8-60c98f02563e) |![My Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/c1a22c40-8422-4670-9dd4-ddca3d6e8216) |
 
 | Home | List Menu |
 |------------|---------------|
@@ -95,17 +95,15 @@ yarn ios
 |------------|---------------|
 | ![Detail Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/58119921-ef93-4eee-b7bd-bd926045cb10) | ![Detail Video](https://github.com/ChanraSB/mama-recipe/assets/151555550/9fd7667d-47e0-4e62-b092-5220dd0ccaee) |
 
-| Edit Recipe Page | Add Recipe |
+| Add Recipe | Edit Recipe |
 |------------|------------|
-| ![Edit Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/72be0a3a-7249-488a-8e94-22b81807cad1) | ![Add Recipe](https://github.com/ChanraSB/mama-recipe/assets/151555550/96c65a3f-37bf-4b84-9aa1-253bb1a6243e)
+|![Add Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/601237e7-7856-4dc5-8380-601cba3a4b13)| ![Edit Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/fba186b0-3b6b-4679-971f-13db5f2cface) |
 
 
 
-![Screenshot_2024-03-13-07-15-36-156_com mamarecipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/95ec6e70-77b1-4ed9-91f8-60c98f02563e)
-![Screenshot_2024-03-13-07-15-53-178_com mamarecipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/c1a22c40-8422-4670-9dd4-ddca3d6e8216)
-![Screenshot_2024-03-13-07-16-47-046_com mamarecipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/601237e7-7856-4dc5-8380-601cba3a4b13)
-![Screenshot_2024-03-13-07-18-47-852_com mamarecipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/fba186b0-3b6b-4679-971f-13db5f2cface)
-![Screenshot_2024-03-13-07-19-42-908_com mamarecipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ff066540-1395-4023-a553-8a2b0dc112e0)
+
+
+
 ## Author
 💻 [Chanra S Bakkara](https://github.com/ChanraSB)
 ## Related Project
