@@ -77,8 +77,7 @@ yarn ios
 ## Screenshoot
 | Login | Register |
 |------------|---------------|
-| ![Login](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ec1a2ca6-0ef4-4e34-b0b3-64c02da4f5a3) |
-![Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/526daa5d-dfda-4649-bb30-fccbbfca8065) |
+| ![Login](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ec1a2ca6-0ef4-4e34-b0b3-64c02da4f5a3) | ![Register](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/526daa5d-dfda-4649-bb30-fccbbfca8065) |
 
 | Profile Page | Update Profile Picture |
 |------------|---------------|
