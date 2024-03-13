@@ -91,9 +91,6 @@ yarn ios
 |------------|---------------|
 | ![Home](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/82855ac9-2fd5-447a-a3e6-103f6d0ceda6) | ![List Menu](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/56e9f3c6-8bb1-46a8-995f-83dd61872b2f) |
 
-| Detail Recipe Page | Detail Video |
-|------------|---------------|
-| ![Detail Recipe Page](https://github.com/ChanraSB/mama-recipe/assets/151555550/58119921-ef93-4eee-b7bd-bd926045cb10) | ![Detail Video](https://github.com/ChanraSB/mama-recipe/assets/151555550/9fd7667d-47e0-4e62-b092-5220dd0ccaee) |
 
 | Add Recipe | Edit Recipe |
 |------------|------------|
