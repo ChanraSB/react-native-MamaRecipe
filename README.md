@@ -81,7 +81,8 @@ yarn ios
 
 | Profile | Detail Recipe | Detail Video |
 |------------|---------------|---------------|
-| ![Profile](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/4d16990a-4e89-4f63-bb43-f697a2a33962) | ![Detail Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ff066540-1395-4023-a553-8a2b0dc112e0) | 
+| ![Profile](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/4d16990a-4e89-4f63-bb43-f697a2a33962) | ![Detail Recipe](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/ff066540-1395-4023-a553-8a2b0dc112e0) | ![Detail Video](https://github.com/ChanraSB/react-native-MamaRecipe/assets/151555550/41cbf179-1da3-4140-b38b-77de0146e8f9)
+
 
 | Liked Recipe | My Recipe |
 |------------|---------------|
